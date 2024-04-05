@@ -4,7 +4,7 @@
   <artifactId>E_Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-		<plugins>
+	  <plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.12.1</version>
